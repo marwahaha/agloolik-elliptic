@@ -1,0 +1,21 @@
+{
+    "Control": {
+	"Equation":"diffusion",
+	"c":0.5
+    },
+
+    "Meshing":{
+	"meshfile":"mesh1.msh",
+	"Dirichlet_functions":["0"],
+	"Dirichlet_boundaries":[0],
+	"Neumann_functions":["0"],
+	"Neumann_boundaries":[1]
+    },
+
+    "Output": {
+        "loggingLevel":"INFO",
+	"outFileStem":"test1",
+	"nPlots":3,
+	"outSuffix":""
+    }
+}
