@@ -5,7 +5,7 @@ Author: Adam G. Peddle
 Current version: 1.0
 Date: 17 March 2015
 
-agloolik-elliptic is a method for computation of abritrary
+agloolik-elliptic is a method for computation of arbitrary
 elliptic PDEs of second order using a 2-D linear triangular
 finite element method.
 
